@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LEVEL-TITLE - FGDL</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: Arial;
+      padding: 20px;
+    }
+
+    a { color: #00bfff; }
+
+  </style>
+</head>
+
+<body>
+
+<h1>#LEVEL-RANKING LEVEL-TITLE</h1>
+
+<p><b>Verifier:</b> VERIFIER</p>
+<p><b>Difficulty:</b> DIFFICULTY</p>
+<p><b>Style:</b> STYLE(idrkwhat2dowiththisone :p)</p>
+
+<h2>Victors</h2>
+<ul>
+  <li>VICTORSr</li>
+</ul>
+
+<br>
+<a href="../index.html">← Back to list</a>
+
+</body>
+</html>
