@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fairydust</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: Arial;
+      padding: 20px;
+    }
+
+    a { color: #00bfff; }
+
+  </style>
+</head>
+
+<body>
+
+<h1>#1- Fairydust</h1>
+
+<p><b>Verifier:</b> Catchystatue210</p>
+<p><b>Difficulty:</b> Hard-Demon</p>
+<p><b>Style:</b> wave-carried</p>
+
+<h2>Victors</h2>
+<ul>
+  <li>VICTORSr</li>
+</ul>
+
+<br>
+<a href="../index.html">← Back to list</a>
+
+</body>
+</html>
