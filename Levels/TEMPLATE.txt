@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>LEVEL-TITLE - FGDL</title>
+  <title>#Level-Rank - Level-Title</title>
   <style>
     body {
-      background-color: #111;
+      background-color: #9C4B02;
       color: white;
+      text-align: center;
       font-family: Arial;
-      padding: 20px;
+      margin: 0;
     }
+
+    header {
+      background: #874000;
+      padding: 20px;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
 
     a { color: #00bfff; }
 
@@ -17,16 +27,23 @@
 
 <body>
 
-<h1>#LEVEL-RANKING LEVEL-TITLE</h1>
+  <header>#Level-Rank - Level-Name</header>
 
-<p><b>Verifier:</b> VERIFIER</p>
-<p><b>Difficulty:</b> DIFFICULTY</p>
-<p><b>Style:</b> STYLE(idrkwhat2dowiththisone :p)</p>
+  <p><b>Verifier:</b> Level-Verifier</p>
+  <p><b> Points:</b> #-or-points-4-beating-level</p>
+  <p><b> In game Difficulty:</b> In-Game_demon-difficulty</p>
+  <h2>Showcase/Verification/historical-recreation</h2>
 
-<h2>Victors</h2>
-<ul>
-  <li>VICTORSr</li>
-</ul>
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/YoutubeVideoID"
+  frameborder="0"
+  allowfullscreen>
+  </iframe>
+  
+  <h2>Victors</h2>
+  <ul>
+  <li>  Victors</li>
+
 
 <br>
 <a href="../index.html">← Back to list</a>
